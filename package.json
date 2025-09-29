@@ -5,12 +5,27 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.30.0",
-    "cypress": "^14.5.0",
+    "cypress": "^14.5.4",
     "cypress-file-upload": "^5.0.8",
     "eslint": "^9.30.0",
     "eslint-config-prettier": "^10.1.5",
     "eslint-plugin-prettier": "^5.5.1",
     "globals": "^16.2.0",
     "prettier": "^3.6.2"
-  }
+  },
+  "name": "serverest-ui",
+  "version": "1.0.0",
+  "description": "Automated UI testing project using Cypress for the ServeRest application.  \r Simulates real user flows with visual execution and video recordings.",
+  "main": "cypress.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrisch-l/serverest-ui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lrisch-l/serverest-ui/issues"
+  },
+  "homepage": "https://github.com/lrisch-l/serverest-ui#readme"
 }
