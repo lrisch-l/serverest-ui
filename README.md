@@ -2,7 +2,7 @@
 
 Automated UI testing project using Cypress and Mochawesome.
 
-![Cypress Tests](https://github.com/lrisch-l/serverest-ui/actions/workflows/cypress.yml/badge.svg)
+![Cypress Tests](https://github.com/lrisch-l/serverest-ui/actions/workflows/test-report.yml/badge.svg)
 ![Made with Cypress](https://img.shields.io/badge/Cypress-automation-brightgreen?logo=cypress)
 ![Node.js](https://img.shields.io/badge/Node.js-v18.17.0-blue?logo=node.js)
 ![Status](https://img.shields.io/badge/tests-passing-brightgreen)
