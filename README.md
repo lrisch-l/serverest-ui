@@ -51,7 +51,7 @@ npm run report:carrinhos
 
 ## 📊 Test Reports
 
-🔹 [Main UI Report](https://github.com/lrisch-l/serverest-ui/blob/main/html/serverest-ui-report.html)  
+🔹 [Main UI Report](https://htmlpreview.github.io/?https://github.com/lrisch-l/serverest-ui/blob/main/cypress/reports/index.html) 
 🟢 Scenario 1 – Empty login fields  
 🟡 Scenario 2 – Invalid login credentials  
 🟠 Scenario 3 – Empty registration fields  
