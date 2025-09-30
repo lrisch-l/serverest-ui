@@ -42,13 +42,6 @@ npm test
 ## 📊 Test Reports
 
 🔹 [Main UI Report](https://github.com/lrisch-l/serverest-ui/tree/main/cypress/reports)  
-🟢 Scenario 1 – Empty login fields  
-🟡 Scenario 2 – Invalid login credentials  
-🟠 Scenario 3 – Empty registration fields  
-🔵 Scenario 4 – Successful admin registration  
-🟣 Scenario 5 – List users and logout  
-🟤 Scenario 6 – Register product  
-⚪ Scenario 7 – Reports screen
 
 ## 📈 GitHub Stats
 
