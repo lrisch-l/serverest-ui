@@ -3,7 +3,7 @@ const fs = require("fs");
 const path = require("path");
 
 module.exports = defineConfig({
-  video: true, // Enable video recording during test runs
+  video: false,
   videosFolder: "cypress/videos", // Directory to store recorded videos
 
   reporter: "cypress-mochawesome-reporter", // Enhanced reporter with embedded screenshots
@@ -12,7 +12,7 @@ module.exports = defineConfig({
     reportPageTitle: "Serverest UI Test Report", // Custom title for the report
     embeddedScreenshots: true, // Embed screenshots directly into the report
     inlineAssets: true, // Include styles and scripts inline for standalone HTML
-    charts: true // Show charts for test stats
+    charts: true, // Show charts for test stats
   },
 
   e2e: {
