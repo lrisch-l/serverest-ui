@@ -34,24 +34,14 @@ cypress/
 ## 🚀 Run tests with:
 
 ```bash
-npm run report:all:split
 
-```
-
-Or run individual suites
-
-```
-
-npm run report:usuarios
-npm run report:produtos
-npm run report:login
-npm run report:carrinhos
+npm test
 
 ```
 
 ## 📊 Test Reports
 
-🔹 [Main UI Report](https://htmlpreview.github.io/?https://github.com/lrisch-l/serverest-ui/blob/main/cypress/reports/index.html) 
+🔹 [Main UI Report](https://github.com/lrisch-l/serverest-ui/tree/main/cypress/reports/index.html)  
 🟢 Scenario 1 – Empty login fields  
 🟡 Scenario 2 – Invalid login credentials  
 🟠 Scenario 3 – Empty registration fields  
