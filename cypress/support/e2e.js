@@ -15,3 +15,7 @@
 
 // Import commands.js using ES2015 syntax:
 import './commands';
+
+// Register Mochawesome reporter to capture screenshots and logs
+import 'cypress-mochawesome-reporter/register';
+
